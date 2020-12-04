@@ -1,0 +1,17 @@
+{
+  "name": "shop_udemy_me",
+  "version": "1.0.0",
+  "description": "study markup on udemy to make responsive ecommerce",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./app/index.html",
+    "build": "parcel build ./app/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "less": "^3.12.2",
+    "parcel-bundler": "^1.12.4"
+  }
+}

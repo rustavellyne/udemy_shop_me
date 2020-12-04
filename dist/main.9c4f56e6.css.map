@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/styles/src/styles/main.less"],"names":[],"mappings":"AAAA;EACC,UAAA;;AADD,EAEC;EACC,WAAA;;AAIF;EACC,aAAA;EACA,uBAAA","file":"main.9c4f56e6.css","sourceRoot":"../app","sourcesContent":["h1 {\n\tcolor: red;\n\tspan {\n\t\tcolor: blue;\n\t}\n}\n\ndiv\t{\n\tdisplay: flex;\n\tjustify-content: center;\n}"]}
